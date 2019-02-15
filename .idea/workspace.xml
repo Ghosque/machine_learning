@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="017f3d04-7bb6-4669-9a46-bd53a07d9ebd" name="Default Changelist" comment="" />
+    <list default="true" id="017f3d04-7bb6-4669-9a46-bd53a07d9ebd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/treePlotter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/trees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Ghosque.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ghosque.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Ghosque$regression_fitting.coverage" NAME="regression_fitting Coverage Results" MODIFIED="1537688083200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn/KNN" />
-    <SUITE FILE_PATH="coverage/Ghosque$Regression.coverage" NAME="Regression Coverage Results" MODIFIED="1538151004124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Youtube_machine_learning" />
-    <SUITE FILE_PATH="coverage/Ghosque$diabetes.coverage" NAME="diabetes Coverage Results" MODIFIED="1537691409275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn/KNN" />
     <SUITE FILE_PATH="coverage/Ghosque$learning_curve.coverage" NAME="learning_curve Coverage Results" MODIFIED="1537669135824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn" />
+    <SUITE FILE_PATH="coverage/machine_learning$handwritten_digits.coverage" NAME="handwritten_digits Coverage Results" MODIFIED="1550213420913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/KNN" />
+    <SUITE FILE_PATH="coverage/machine_learning$treePlotter.coverage" NAME="treePlotter Coverage Results" MODIFIED="1550226156353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
     <SUITE FILE_PATH="coverage/Ghosque$classification.coverage" NAME="classification Coverage Results" MODIFIED="1537670731521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn/KNN" />
+    <SUITE FILE_PATH="coverage/Ghosque$Regression.coverage" NAME="Regression Coverage Results" MODIFIED="1538151004124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Youtube_machine_learning" />
+    <SUITE FILE_PATH="coverage/machine_learning$trees.coverage" NAME="trees Coverage Results" MODIFIED="1550222939371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
+    <SUITE FILE_PATH="coverage/machine_learning$matplot_test.coverage" NAME="matplot_test Coverage Results" MODIFIED="1550224841740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
+    <SUITE FILE_PATH="coverage/Ghosque$diabetes.coverage" NAME="diabetes Coverage Results" MODIFIED="1537691409275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn/KNN" />
     <SUITE FILE_PATH="coverage/Ghosque$01_regression_intro.coverage" NAME="01_regression_intro Coverage Results" MODIFIED="1538147459052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Youtube_machine_learning" />
+    <SUITE FILE_PATH="coverage/Ghosque$regression_fitting.coverage" NAME="regression_fitting Coverage Results" MODIFIED="1537688083200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn/KNN" />
+    <SUITE FILE_PATH="coverage/machine_learning$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1550211499609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/KNN" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-456599093">
@@ -54,14 +67,62 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Regression.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Youtube_machine_learning/Regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="110">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kNN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/kNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-81">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="handwritten_digits.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/handwritten_digits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trees.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/trees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="103" column="17" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="treePlotter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/treePlotter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="862">
+              <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,6 +137,15 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>splitDataSet</find>
+      <find>dataset</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -86,6 +156,11 @@
         <option value="$PROJECT_DIR$/Youtube_machine_learning/regression_intro.py" />
         <option value="$PROJECT_DIR$/Youtube_machine_learning/01_regression_intro.py" />
         <option value="$PROJECT_DIR$/Youtube_machine_learning/Regression.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN/kNN.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN/handwritten_digits.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/trees.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/matplot_test.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/treePlotter.py" />
       </list>
     </option>
   </component>
@@ -95,11 +170,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="7" />
-    <option name="y" value="34" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1996" />
+    <option name="y" value="88" />
+    <option name="width" value="1498" />
+    <option name="height" value="787" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -110,13 +188,25 @@
         <subPane>
           <expand>
             <path>
-              <item name="Ghosque" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ghosque" type="462c0819:PsiDirectoryNode" />
+              <item name="machine_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Ghosque" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ghosque" type="462c0819:PsiDirectoryNode" />
-              <item name="Youtube_machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="machine_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine_Learning_in_Action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machine_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine_Learning_in_Action" type="462c0819:PsiDirectoryNode" />
+              <item name="decision_tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machine_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine_Learning_in_Action" type="462c0819:PsiDirectoryNode" />
+              <item name="KNN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,10 +217,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aisong_data_processing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Yang\machine_learning\Machine_Learning_in_Action\KNN" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,8 +239,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Regression">
-    <configuration name="01_regression_intro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.treePlotter">
+    <configuration name="handwritten_digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ghosque" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,21 +248,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Youtube_machine_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\Python\Ghosque\Youtube_machine_learning\Regression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN/handwritten_digits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="kNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ghosque" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,21 +267,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Youtube_machine_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Youtube_machine_learning/Regression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN/kNN.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="matplot_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ghosque" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,21 +286,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scikit-learn/KNN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scikit-learn/KNN/classification.py" />
+      <option name="SCRIPT_NAME" value="D:\Yang\machine_learning\Machine_Learning_in_Action\decision_tree\treePlotter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="diabetes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="treePlotter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ghosque" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,21 +305,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scikit-learn/KNN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scikit-learn/KNN/diabetes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/treePlotter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="regression_fitting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ghosque" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,34 +324,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scikit-learn/KNN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scikit-learn/KNN/regression_fitting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/trees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.classification" />
-      <item itemvalue="Python.regression_fitting" />
-      <item itemvalue="Python.diabetes" />
-      <item itemvalue="Python.01_regression_intro" />
-      <item itemvalue="Python.Regression" />
+      <item itemvalue="Python.kNN" />
+      <item itemvalue="Python.handwritten_digits" />
+      <item itemvalue="Python.trees" />
+      <item itemvalue="Python.matplot_test" />
+      <item itemvalue="Python.treePlotter" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Regression" />
-        <item itemvalue="Python.01_regression_intro" />
-        <item itemvalue="Python.diabetes" />
-        <item itemvalue="Python.regression_fitting" />
-        <item itemvalue="Python.classification" />
+        <item itemvalue="Python.treePlotter" />
+        <item itemvalue="Python.matplot_test" />
+        <item itemvalue="Python.trees" />
+        <item itemvalue="Python.handwritten_digits" />
+        <item itemvalue="Python.kNN" />
       </list>
     </recent_temporary>
   </component>
@@ -283,32 +363,40 @@
       <option name="presentableId" value="Default" />
       <updated>1537666268777</updated>
     </task>
+    <task id="LOCAL-00001" summary="k近邻算法及手写数字识别实例">
+      <created>1550213557232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550213557232</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1996" y="88" width="1498" height="787" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18305598" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3990755" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36825886" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17152777" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.6625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295082" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.67776096" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +405,21 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="k近邻算法及手写数字识别实例" />
+    <option name="LAST_COMMIT_MESSAGE" value="k近邻算法及手写数字识别实例" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Youtube_machine_learning/Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scikit-learn/learning_curve.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -346,12 +448,85 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PyhtonDataScienceHandbook/GMM/Gaussian_mixture_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Youtube_machine_learning/Regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        <state relative-caret-position="110">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/datingTestSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/datingTestSet2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="998" column="33" lean-forward="true" selection-start-line="998" selection-start-column="33" selection-end-line="998" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/testDigits/0_0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/trainingDigits/0_0.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/handwritten_digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="103" column="17" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/treePlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
           </folding>
         </state>
       </provider>
