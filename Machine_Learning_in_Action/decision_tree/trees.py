@@ -1,6 +1,7 @@
 import math
 import operator
 import matplotlib.pyplot as plt
+import treePlotter as tp
 
 
 def createDataSet():
@@ -104,11 +105,51 @@ def createTree(dataSet, labels):
     return myTree
 
 
+def classify(inputTree, featLabels, testVec):
+    """
+    测试算法
+    :param inputTree: 输入树
+    :param featLabels: 标签列表
+    :param testVec: 测试向量
+    :return: result
+    """
+    firstStr = list(inputTree.keys())[0]
+    secondDict = inputTree[firstStr]
+    featIndex = featLabels.index(firstStr)
+    for key in secondDict.keys():
+        if testVec[featIndex] == key:
+            if type(secondDict[key]).__name__ == 'dict':
+                classLabel = classify(secondDict[key], featLabels, testVec)
+            else:
+                classLabel = secondDict[key]
+
+    return classLabel
+
+
+def storeTreee(inputTree, filename):
+    """存储树"""
+    import pickle
+    with open(filename, 'wb') as f:
+        pickle.dump(inputTree, f)
+
+
+def grabTree(filename):
+    """读取树"""
+    import pickle
+    with open(filename, 'rb') as f:
+        return pickle.load(f)
+
+
 if __name__ == '__main__':
-    myDat, labels = createDataSet()
-    myTree = createTree(myDat, labels)
+    # myDat, labels = createDataSet()
+    # print(labels)
+    myTree = tp.retrieveTree(0)
     print(myTree)
+    # result = classify(myTree, labels, [1, 1])
+    # print(result)
 
-
+    # storeTreee(myTree, 'classifierStorage.txt')
+    tree = grabTree('classifierStorage.txt')
+    print(tree)
 
 
