@@ -2,32 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="017f3d04-7bb6-4669-9a46-bd53a07d9ebd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/treePlotter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/9.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Ghosque.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ghosque.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/bayes.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Ghosque$learning_curve.coverage" NAME="learning_curve Coverage Results" MODIFIED="1537669135824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn" />
-    <SUITE FILE_PATH="coverage/machine_learning$handwritten_digits.coverage" NAME="handwritten_digits Coverage Results" MODIFIED="1550213420913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/KNN" />
-    <SUITE FILE_PATH="coverage/machine_learning$treePlotter.coverage" NAME="treePlotter Coverage Results" MODIFIED="1550226156353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
-    <SUITE FILE_PATH="coverage/Ghosque$classification.coverage" NAME="classification Coverage Results" MODIFIED="1537670731521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn/KNN" />
     <SUITE FILE_PATH="coverage/Ghosque$Regression.coverage" NAME="Regression Coverage Results" MODIFIED="1538151004124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Youtube_machine_learning" />
-    <SUITE FILE_PATH="coverage/machine_learning$trees.coverage" NAME="trees Coverage Results" MODIFIED="1550222939371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
-    <SUITE FILE_PATH="coverage/machine_learning$matplot_test.coverage" NAME="matplot_test Coverage Results" MODIFIED="1550224841740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
+    <SUITE FILE_PATH="coverage/machine_learning$treePlotter.coverage" NAME="treePlotter Coverage Results" MODIFIED="1550931707275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
     <SUITE FILE_PATH="coverage/Ghosque$diabetes.coverage" NAME="diabetes Coverage Results" MODIFIED="1537691409275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn/KNN" />
+    <SUITE FILE_PATH="coverage/machine_learning$contact_lenses_predict.coverage" NAME="contact_lenses_predict Coverage Results" MODIFIED="1550935243181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
+    <SUITE FILE_PATH="coverage/machine_learning$temp.coverage" NAME="temp Coverage Results" MODIFIED="1551009632920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ghosque$01_regression_intro.coverage" NAME="01_regression_intro Coverage Results" MODIFIED="1538147459052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Youtube_machine_learning" />
     <SUITE FILE_PATH="coverage/Ghosque$regression_fitting.coverage" NAME="regression_fitting Coverage Results" MODIFIED="1537688083200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn/KNN" />
+    <SUITE FILE_PATH="coverage/machine_learning$trees.coverage" NAME="trees Coverage Results" MODIFIED="1550934614392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
+    <SUITE FILE_PATH="coverage/machine_learning$handwritten_digits.coverage" NAME="handwritten_digits Coverage Results" MODIFIED="1550213420913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/KNN" />
+    <SUITE FILE_PATH="coverage/machine_learning$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1551538518207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes" />
     <SUITE FILE_PATH="coverage/machine_learning$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1550211499609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/KNN" />
+    <SUITE FILE_PATH="coverage/Ghosque$learning_curve.coverage" NAME="learning_curve Coverage Results" MODIFIED="1537669135824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn" />
+    <SUITE FILE_PATH="coverage/Ghosque$classification.coverage" NAME="classification Coverage Results" MODIFIED="1537670731521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scikit-learn/KNN" />
+    <SUITE FILE_PATH="coverage/machine_learning$matplot_test.coverage" NAME="matplot_test Coverage Results" MODIFIED="1550224841740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-456599093">
@@ -65,64 +115,55 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-291654848">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="10" />
+          <entry key="txt" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="5364" />
+          <entry key="txt" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="42" />
+          <entry key="Python" value="5364" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Regression.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Youtube_machine_learning/Regression.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/bayes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="529">
+              <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kNN.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/kNN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="handwritten_digits.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/handwritten_digits.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trees.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/trees.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="103" column="17" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="treePlotter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/treePlotter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="862">
-              <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#17#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1551538508217" expanded="true" signature="1947:6104" ph="..." />
+                <marker date="1551538508217" expanded="true" signature="4629:6104" ph="..." />
               </folding>
             </state>
           </provider>
@@ -141,6 +182,7 @@
     <findStrings>
       <find>splitDataSet</find>
       <find>dataset</find>
+      <find>retri</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -158,9 +200,14 @@
         <option value="$PROJECT_DIR$/Youtube_machine_learning/Regression.py" />
         <option value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN/kNN.py" />
         <option value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN/handwritten_digits.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/trees.py" />
         <option value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/matplot_test.py" />
         <option value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/treePlotter.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/trees.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/contact_lenses_predict.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_in_Action/naive_bayes.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/23.txt" />
+        <option value="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/bayes.py" />
       </list>
     </option>
   </component>
@@ -170,20 +217,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1996" />
-    <option name="y" value="88" />
-    <option name="width" value="1498" />
-    <option name="height" value="787" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,30 +244,25 @@
               <item name="machine_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
               <item name="Machine_Learning_in_Action" type="462c0819:PsiDirectoryNode" />
-              <item name="decision_tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="machine_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machine_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Machine_Learning_in_Action" type="462c0819:PsiDirectoryNode" />
-              <item name="KNN" type="462c0819:PsiDirectoryNode" />
+              <item name="NaiveBayes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MachineLearninginAction_Code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Ghosque\machine_learning\Machine_Learning_in_Action\NaiveBayes" />
+      <recent name="E:\Ghosque\machine_learning\Machine_Learning_in_Action\decision_tree" />
       <recent name="D:\Yang\machine_learning\Machine_Learning_in_Action\KNN" />
     </key>
   </component>
@@ -239,8 +278,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.treePlotter">
-    <configuration name="handwritten_digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bayes">
+    <configuration name="bayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ghosque" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,37 +287,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN/handwritten_digits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/bayes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="kNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Ghosque" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning_in_Action/KNN/kNN.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="matplot_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="contact_lenses_predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ghosque" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,11 +314,36 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Yang\machine_learning\Machine_Learning_in_Action\decision_tree\treePlotter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/contact_lenses_predict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Ghosque" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="treePlotter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ghosque" />
@@ -315,6 +363,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ghosque" />
@@ -334,21 +385,24 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.kNN" />
-      <item itemvalue="Python.handwritten_digits" />
       <item itemvalue="Python.trees" />
-      <item itemvalue="Python.matplot_test" />
       <item itemvalue="Python.treePlotter" />
+      <item itemvalue="Python.contact_lenses_predict" />
+      <item itemvalue="Python.bayes" />
+      <item itemvalue="Python.temp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.treePlotter" />
-        <item itemvalue="Python.matplot_test" />
+        <item itemvalue="Python.bayes" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.contact_lenses_predict" />
         <item itemvalue="Python.trees" />
-        <item itemvalue="Python.handwritten_digits" />
-        <item itemvalue="Python.kNN" />
+        <item itemvalue="Python.treePlotter" />
       </list>
     </recent_temporary>
   </component>
@@ -370,33 +424,48 @@
       <option name="project" value="LOCAL" />
       <updated>1550213557232</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="决策树算法测试、数据保存及隐形眼镜类型预测">
+      <created>1550935308088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550935308088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="朴素贝叶斯算法设计">
+      <created>1551103367409</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551103367409</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1996" y="88" width="1498" height="787" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3990755" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36825886" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17152777" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.6625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1802949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33617023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36737588" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.66152817" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,19 +476,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="k近邻算法及手写数字识别实例" />
-    <option name="LAST_COMMIT_MESSAGE" value="k近邻算法及手写数字识别实例" />
+    <MESSAGE value="决策树算法测试、数据保存及隐形眼镜类型预测" />
+    <MESSAGE value="朴素贝叶斯算法设计" />
+    <option name="LAST_COMMIT_MESSAGE" value="朴素贝叶斯算法设计" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Youtube_machine_learning/Regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scikit-learn/learning_curve.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -449,30 +510,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PyhtonDataScienceHandbook/GMM/Gaussian_mixture_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Youtube_machine_learning/Regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/datingTestSet.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/datingTestSet2.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -491,42 +529,101 @@
     <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/trainingDigits/0_0.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube_machine_learning/Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/datingTestSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/kNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="234">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/KNN/handwritten_digits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/classifierStorage.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/lenses.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/treePlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/trees.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="103" column="17" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2466">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/treePlotter.py">
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/decision_tree/contact_lenses_predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="862">
-          <caret line="45" column="33" lean-forward="true" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/naive_bayes.py" />
+    <entry file="file://$PROJECT_DIR$/temp.py" />
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/7.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/spam/9.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/email/ham/23.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_in_Action/NaiveBayes/bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
           <folding>
-            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1551538508217" expanded="true" signature="1947:6104" ph="..." />
+            <marker date="1551538508217" expanded="true" signature="4629:6104" ph="..." />
           </folding>
         </state>
       </provider>
