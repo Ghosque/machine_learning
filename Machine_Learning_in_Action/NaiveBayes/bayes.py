@@ -1,4 +1,5 @@
 import random
+import operator
 import feedparser
 import numpy as np
 
@@ -138,7 +139,6 @@ def spamTest():
 
 
 def calcMostFreq(vocabList, fullText):
-    import operator
     freqDict = {}
     for token in vocabList:
         freqDict[token] = fullText.count(token)
@@ -174,7 +174,7 @@ def localWords(feed1, feed0):
     for i in range(20):
         randIndex = int(random.uniform(0, len(trainingSet)))
         testSet.append(trainingSet[randIndex])
-        del(trainingSet[randIndex])
+        del trainingSet[randIndex]
 
     trainMat = []
     trainClasses = []
@@ -193,6 +193,27 @@ def localWords(feed1, feed0):
     return vocabList, p0V, p1V
 
 
+def getTopWords(ny, sf):
+    vocabList, p0V, p1V = localWords(ny, sf)
+    topNY = []
+    topSF = []
+    for i in range(len(p0V)):
+        if p0V[i] > -6.0:
+            topSF.append((vocabList[i], p0V[i]))
+        if p1V[i] > -6.0:
+            topNY.append((vocabList[i], p1V[i]))
+    sortedSF = sorted(topSF, key=lambda pair: pair[1], reverse=True)
+    print("SF**" * 5)
+
+    for item in sortedSF:
+        print(item[0])
+    sortedNY = sorted(topNY, key=lambda pair: pair[1], reverse=True)
+    print("NY**" * 5)
+
+    for item in sortedNY:
+        print(item[0])
+
+
 def main():
     listOPosts, listClasses = loadDataset()
     myVocabList = createVocabList(listOPosts)
@@ -209,7 +230,7 @@ def main():
 
 if __name__ == '__main__':
     ny = feedparser.parse('http://www.nasa.gov/rss/dyn/image_of_the_day.rss')
-    sf = feedparser.parse('http://sports.yahoo.com/nba/teams/hou/rss.xml')
-    vocabList, pSF, pNY = localWords(ny, sf)
+    sf = feedparser.parse('http://rss.yule.sohu.com/rss/yuletoutiao.xml')
+    getTopWords(ny, sf)
 
 
